@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+  text-align: center;
+}
+div > button {
+  background: #23bd23;
+  border: solid #92e292;
+  margin: 10px;
+  width: 60px;
+  height: 30px;
+  text-decoration: none;
+  color: #236123;
+}
+div > img {
+  border: solid 3px;
+}
